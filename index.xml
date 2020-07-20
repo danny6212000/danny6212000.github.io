@@ -6,18 +6,22 @@
     <description>Recent content on Web of Danny</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Mon, 20 Jul 2020 03:11:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2020 07:03:34 +0000</lastBuildDate>
     
 	<atom:link href="https://danny6212000.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Testautopush</title>
-      <link>https://danny6212000.github.io/post/testautopush/</link>
-      <pubDate>Mon, 20 Jul 2020 03:11:25 +0000</pubDate>
+      <title>利用GitAction進行自動更新</title>
+      <link>https://danny6212000.github.io/post/%E5%88%A9%E7%94%A8gitaction%E9%80%B2%E8%A1%8C%E8%87%AA%E5%8B%95%E6%9B%B4%E6%96%B0/</link>
+      <pubDate>Mon, 20 Jul 2020 07:03:34 +0000</pubDate>
       
-      <guid>https://danny6212000.github.io/post/testautopush/</guid>
-      <description>sdafjdkjasgklsvjlkdfav;av</description>
+      <guid>https://danny6212000.github.io/post/%E5%88%A9%E7%94%A8gitaction%E9%80%B2%E8%A1%8C%E8%87%AA%E5%8B%95%E6%9B%B4%E6%96%B0/</guid>
+      <description>此文章是利用GitAction進行自動部署更新~
+新增這功能之後可以少做不少步驟，很方便~
+筆記如下:
+https://www.notion.so/GitPage-CI-CD-GitAction-21930bc292314fc4ba48c5366b44da98
+Danny</description>
     </item>
     
     <item>
